@@ -1,0 +1,930 @@
+[
+    {
+        "field": {
+            "series.bar.opacity": "column_opacity"
+        },
+        "value": {
+            "0.7": 0.7
+        }
+    },
+    {
+        "field": {
+            "column.label.show": "labels"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "column.label.after": "labels_bar_align"
+        },
+        "value": {
+            "after": "out"
+        }
+    },
+    {
+        "field": {
+            "column.label.position": "labels_bar_align"
+        },
+        "value": {
+            "start": "left"
+        }
+    },
+    {
+        "field": {
+            "column.label.position": "labels_bar_align"
+        },
+        "value": {
+            "middle": "center"
+        }
+    },
+    {
+        "field": {
+            "column.label.position": "labels_bar_align"
+        },
+        "value": {
+            "end": "right"
+        }
+    },
+    {
+        "field": {
+            "palette.bg_color": "chart_bg.background_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "palette.bg_color": "chart_bg.background_color_enabled"
+        },
+        "value": {
+            "#ffffff": false
+        }
+    },
+    {
+        "field": {
+            "numberformatter.prefix": "number_format.prefix"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "numberformatter.suffix": "number_format.suffix"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.alignment": "layout.header_align"
+        },
+        "value": {
+            "center": "center"
+        }
+    },
+    {
+        "field": {
+            "header.alignment": "layout.header_align"
+        },
+        "value": {
+            "right": "right"
+        }
+    },
+    {
+        "field": {
+            "header.alignment": "layout.header_align"
+        },
+        "value": {
+            "left": "left"
+        }
+    },
+    {
+        "field": {
+            "header.title": "layout.title"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.header.title_font_family": "'layout.title_font':{'name'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.header.title_font_family_url": "'layout.title_font':{'url'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.title_font_size": "layout.title_size"
+        },
+        "value": {
+            "40": "2"
+        }
+    },
+    {
+        "field": {
+            "header.title_font_size": "layout.title_size"
+        },
+        "value": {
+            "18": "1.4"
+        }
+    },
+    {
+        "field": {
+            "header.title_font_size": "layout.title_size_custom"
+        },
+        "value": {
+            "47": "3"
+        }
+    },
+    {
+        "field": {
+            "header.title_color": "layout.title_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.subtitle": "layout.subtitle"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.header.subtitle_font_family": "'layout.subtitle_font':{'name'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.header.subtitle_font_family_url": "'layout.subtitle_font':{'url'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.subtitle_font_size": "layout.subtitle_size"
+        },
+        "value": {
+            "40": "2"
+        }
+    },
+    {
+        "field": {
+            "header.subtitle_font_size": "layout.subtitle_size"
+        },
+        "value": {
+            "18": "1.4"
+        }
+    },
+    {
+        "field": {
+            "header.subtitle_font_size": "layout.subtitle_size_custom"
+        },
+        "value": {
+            "47": "3"
+        }
+    },
+    {
+        "field": {
+            "header.subtitle_color": "layout.subtitle_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.text": "layout.header_text"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.text_font_size": "layout.subtitle_size"
+        },
+        "value": {
+            "40": "1.6"
+        }
+    },
+    {
+        "field": {
+            "header.text_font_size": "layout.subtitle_size"
+        },
+        "value": {
+            "18": "1.2"
+        }
+    },
+    {
+        "field": {
+            "header.text_font_size": "layout.header_text_size_custom"
+        },
+        "value": {
+            "29": "2"
+        }
+    },
+    {
+        "field": {
+            "header.border": "layout.header_border"
+        },
+        "value": {
+            "false": "none"
+        }
+    },
+    {
+        "field": {
+            "header.border": "layout.header_border"
+        },
+        "value": {
+            "true": "bottom"
+        }
+    },
+    {
+        "field": {
+            "header.border_type": "layout.header_border_style"
+        },
+        "value": {
+            "dash": "dashed"
+        }
+    },
+    {
+        "field": {
+            "header.border_width": "layout.header_border_width"
+        },
+        "value": {
+            "5": 5
+        }
+    },
+    {
+        "field": {
+            "footer.alignment": "layout.footer_align"
+        },
+        "value": {
+            "center": "center"
+        }
+    },
+    {
+        "field": {
+            "footer.alignment": "layout.footer_align"
+        },
+        "value": {
+            "right": "right"
+        }
+    },
+    {
+        "field": {
+            "footer.alignment": "layout.footer_align"
+        },
+        "value": {
+            "left": "left"
+        }
+    },
+    {
+        "field": {
+            "footer.url_name": "layout.source_name"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.url": "layout.source_url"
+        },
+        "value": {
+            "ffff": "ffff"
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.source_font_family": "'layout.footer_font':{'name'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.source_font_family_url": "'layout.footer_font':{'url'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.source_font_size": "layout.footer_text_size"
+        },
+        "value": {
+            "46": 2
+        }
+    },
+    {
+        "field": {
+            "footer.source_color": "layout.footer_text_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.note1_text": "layout.footer_note"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.note1_font_size": "layout.footer_text_size"
+        },
+        "value": {
+            "46": 2
+        }
+    },
+    {
+        "field": {
+            "footer.note1_color": "layout.footer_text_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.noteone_font_family": "'layout.footer_font':{'name'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.noteone_font_family_url": "'layout.footer_font':{'url'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.note2_text": "layout.footer_note_secondary"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.notetwo_font_family": "'layout.footer_font':{'name'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "fonts.footer.notetwo_font_family_url": "'layout.footer_font':{'url'}"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.note2_font_size": "layout.footer_text_size"
+        },
+        "value": {
+            "46": 2
+        }
+    },
+    {
+        "field": {
+            "footer.note2_color": "layout.footer_text_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "footer.border": "layout.footer_border"
+        },
+        "value": {
+            "true": "top"
+        }
+    },
+    {
+        "field": {
+            "footer.border": "layout.footer_border"
+        },
+        "value": {
+            "false": "none"
+        }
+    },
+    {
+        "field": {
+            "footer.border_width": "layout.footer_border_width"
+        },
+        "value": {
+            "2": 2
+        }
+    },
+    {
+        "field": {
+            "footer.border_type": "layout.footer_border_style"
+        },
+        "value": {
+            "dash": "dashed"
+        }
+    },
+    {
+        "field": {
+            "footer.border_type": "layout.footer_border_style"
+        },
+        "value": {
+            "solid": "solid"
+        }
+    },
+    {
+        "field": {
+            "footer.border_color": "layout.footer_border_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "header.border_type": "layout.header_border_style"
+        },
+        "value": {
+            "solid": "solid"
+        }
+    },
+    {
+        "field": {
+            "xAxis.position": "x.axis_position"
+        },
+        "value": {
+            "bottom": "bottom"
+        }
+    },
+    {
+        "field": {
+            "xAxis.position": "x.axis_position"
+        },
+        "value": {
+            "top": "top"
+        }
+    },
+    {
+        "field": {
+            "xAxis.title": "x.title"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.titleSpace": "x.title_padding"
+        },
+        "value": {
+            "17": 1
+        }
+    },
+    {
+        "field": {
+            "xAxis.titleFontSizeValue": "x.title_size"
+        },
+        "value": {
+            "29": 2
+        }
+    },
+    {
+        "field": {
+            "xAxis.titleColor": "x.title_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsRotate": "x.tick_label_angle"
+        },
+        "value": {
+            "0": "0"
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsRotate": "x.tick_label_angle"
+        },
+        "value": {
+            "-45": "45"
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsRotate": "x.tick_label_angle"
+        },
+        "value": {
+            "-90": "90"
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsFontSizeValue": "x.tick_label_size"
+        },
+        "value": {
+            "15": 1
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsColor": "x.tick_label_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsSamplingType": "x.tick_mode"
+        },
+        "value": {
+            "auto": "auto"
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsSamplingType": "x.tick_mode"
+        },
+        "value": {
+            "custom": "number"
+        }
+    },
+    {
+        "field": {
+            "xAxis.labelsSamplingInterval": "x.tick_number"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.axisLine": "x.line_visible"
+        },
+        "value": {
+            "false": false
+        }
+    },
+    {
+        "field": {
+            "xAxis.axisLine": "x.line_visible"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "xAxis.axisLineWidth": "x.line_and_tick_width"
+        },
+        "value": {
+            "2.5": 0.25
+        }
+    },
+    {
+        "field": {
+            "xAxis.axisLinesColor": "x.line_and_tick_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.tickLinesLenght": "x.tick_length"
+        },
+        "value": {
+            "18": 1
+        }
+    },
+    {
+        "field": {
+            "xAxis.tickLinesPosition": "x.tick_side"
+        },
+        "value": {
+            "bottom": "in"
+        }
+    },
+    {
+        "field": {
+            "xAxis.tickLinesPosition": "x.tick_side"
+        },
+        "value": {
+            "top": "out"
+        }
+    },
+    {
+        "field": {
+            "xAxis.tickLinesColor": "x.line_and_tick_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.gridLines": "x.gridlines_visible"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "xAxis.gridLinesType": "x.gridline_style"
+        },
+        "value": {
+            "dash": "dash"
+        }
+    },
+    {
+        "field": {
+            "xAxis.gridLinesType": "x.gridline_style"
+        },
+        "value": {
+            "solid": "solid"
+        }
+    },
+    {
+        "field": {
+            "xAxis.gridLinesColor": "x.gridline_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "xAxis.gridLinesWidth": "x.gridline_width"
+        },
+        "value": {
+            "3": 0.25
+        }
+    },
+    {
+        "field": {
+            "yAxis.flip": "y.flip"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "yAxis.title": "y.title"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.titleAlign": "y.title_position"
+        },
+        "value": {
+            "left": "end"
+        }
+    },
+    {
+        "field": {
+            "yAxis.titleAlign": "y.title_position"
+        },
+        "value": {
+            "middle": "side"
+        }
+    },
+    {
+        "field": {
+            "yAxis.titleColor": "y.title_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.titleFontSizeValue": "y.title_size"
+        },
+        "value": {
+            "27": 2
+        }
+    },
+    {
+        "field": {
+            "yAxis.titleSpace": "y.title_padding"
+        },
+        "value": {
+            "10": 1
+        }
+    },
+    {
+        "field": {
+            "yAxis.axisLine": "y.line_visible"
+        },
+        "value": {
+            "false": false
+        }
+    },
+    {
+        "field": {
+            "yAxis.axisLine": "y.line_visible"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "yAxis.axisLineWidth": "y.line_and_tick_width"
+        },
+        "value": {
+            "3.5": 0.3
+        }
+    },
+    {
+        "field": {
+            "yAxis.axisLinesColor": "y.line_and_tick_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.tickLinesLenght": "y.tick_length"
+        },
+        "value": {
+            "20": 0.5
+        }
+    },
+    {
+        "field": {
+            "yAxis.tickLinesPosition": "y.tick_side"
+        },
+        "value": {
+            "left": "out"
+        }
+    },
+    {
+        "field": {
+            "yAxis.tickLinesPosition": "y.tick_side"
+        },
+        "value": {
+            "right": "in"
+        }
+    },
+    {
+        "field": {
+            "yAxis.tickLinesColor": "y.line_and_tick_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.gridLines": "y.gridlines_visible"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "yAxis.gridLinesType": "y.gridline_style"
+        },
+        "value": {
+            "dash": "dash"
+        }
+    },
+    {
+        "field": {
+            "yAxis.gridLinesType": "y.gridline_style"
+        },
+        "value": {
+            "solid": "solid"
+        }
+    },
+    {
+        "field": {
+            "yAxis.gridLinesWidth": "y.gridline_width"
+        },
+        "value": {
+            "2": 0.15
+        }
+    },
+    {
+        "field": {
+            "yAxis.gridLinesColor": "y.gridline_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.labelsFontSizeValue": "bar_labels_font_size"
+        },
+        "value": {
+            "49": 3
+        }
+    },
+    {
+        "field": {
+            "yAxis.LabelOverBar": "bar_labels_above"
+        },
+        "value": {
+            "false": false
+        }
+    },
+    {
+        "field": {
+            "yAxis.LabelOverBar": "bar_labels_above"
+        },
+        "value": {
+            "true": true
+        }
+    },
+    {
+        "field": {
+            "yAxis.labelsColor": "bar_labels_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "yAxis.labelsFontSizeValue": "bar_labels_font_size"
+        },
+        "value": {
+            "55": 3
+        }
+    },
+    {
+        "field": {
+            "palette.bg_color": "chart_bg.background_color"
+        },
+        "value": {
+            "": ""
+        }
+    },
+    {
+        "field": {
+            "palette.bg_color": "chart_bg.background_color_enabled"
+        },
+        "value": {
+            "#ffffff": false
+        }
+    },
+    {
+        "field": {
+            "palette.colors": "color.categorical_palette"
+        },
+        "value": {
+            "":""
+        }
+    }
+]
